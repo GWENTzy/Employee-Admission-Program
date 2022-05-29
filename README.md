@@ -1,1 +1,4 @@
-# Employee-Admission-Program
+# Employee Admission Program - Repository
+
+## Licensed
+Licensed under [MIT]
